@@ -1,3 +1,32 @@
-.App {
+body {
+  margin: 0;
+  position: relative;
+  width: 90%;
+  background: url(./images/via-lactea.webp);
+  background-size: cover;
+}
+
+header {
+  position: absolute;
   text-align: center;
+  width: 100%;
+  height: 50px;
+  left: 50px;
+  top: 35px;
+  color: white;
+}
+
+h2 {
+  position: absolute;
+  height: 60px;
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 150%;
+  text-align: center;
+  color: #FFFFFF;
+  width: 16%;
+  left: 43%;
+  top: 10px;
 }
