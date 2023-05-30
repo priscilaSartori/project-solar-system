@@ -1,32 +1,32 @@
 body {
+  background: url(./images/via-lactea.webp);
+  background-size: cover;
   margin: 0;
   position: relative;
   width: 90%;
-  background: url(./images/via-lactea.webp);
-  background-size: cover;
 }
 
 header {
-  position: absolute;
-  text-align: center;
-  width: 100%;
+  color: white;
   height: 50px;
   left: 50px;
+  position: absolute;
+  text-align: center;
   top: 35px;
-  color: white;
+  width: 100%;
 }
 
 h2 {
-  position: absolute;
-  height: 60px;
-  font-family: 'Epilogue';
-  font-style: normal;
-  font-weight: 300;
-  font-size: 40px;
-  line-height: 150%;
-  text-align: center;
   color: #FFFFFF;
-  width: 16%;
+  /* font-family: 'Epilogue';
+  font-style: normal; */
+  font-size: 40px;
+  font-weight: 300;
+  height: 60px;
   left: 43%;
-  top: 10px;
+  line-height: 150%;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  width: 16%;
 }
